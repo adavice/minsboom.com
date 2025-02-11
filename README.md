@@ -1,1 +1,1 @@
-# -MindsBoom
+# -MinsBoom
